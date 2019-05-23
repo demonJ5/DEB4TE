@@ -1,0 +1,22 @@
+{
+  "name": "deb4te",
+  "version": "1.0.0",
+  "description": "debate web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demonJ5/DEB4TE.git"
+  },
+  "author": "Christopher Xu, Joseph Demoneris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demonJ5/DEB4TE/issues"
+  },
+  "homepage": "https://github.com/demonJ5/DEB4TE#readme",
+  "dependencies": {
+    "firebase": "^6.0.2"
+  }
+}
