@@ -1,0 +1,22 @@
+{
+  "name": "deb4te",
+  "version": "1.0.0",
+  "description": "initial package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demonJ5/DEB4TE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demonJ5/DEB4TE/issues"
+  },
+  "homepage": "https://github.com/demonJ5/DEB4TE#readme",
+  "dependencies": {
+    "firebase": "^6.0.2"
+  }
+}
